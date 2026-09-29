@@ -1,5 +1,18 @@
 {
   "version": 2,
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "zea-landing-page.vercel.app"
+        }
+      ],
+      "destination": "https://zeateknologiindonesia.web.id/$1",
+      "permanent": true
+    }
+  ],
   "builds": [
     {
       "src": "web.js",
