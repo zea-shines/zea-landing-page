@@ -364,8 +364,8 @@ app.get('/privacy.html', (req, res) => {
     <p>Jika anda memiliki pertanyaan tentang kebijakan privasi ini, silakan hubungi kami di:</p>
     <ul>
         <li><strong>Pemilik:</strong> Asip Saepulloh</li>
-        <li><strong>Email:</strong> <a href="mailto: support@zeacs.web.id">support@zeacs.web.id</a></li>
-        <li><strong>Website:</strong> <a href="https://zeacs.web.id" target="_blank">https://zeacs.web.id</a></li>
+        <li><strong>Email:</strong> <a href="mailto: support@zeacs.cloud">support@zeacs.cloud</a></li>
+        <li><strong>Website:</strong> <a href="https://zeacs.cloud" target="_blank">https://zeacs.cloud</a></li>
     </ul>
     <footer><p>&copy; 2026. Hak cipta dilindungi</p></footer>
 </body>
