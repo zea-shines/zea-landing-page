@@ -74,6 +74,7 @@ app.get('/', (req, res) => {
     <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="facebook-domain-verification" content="312dazn3r7g4991kzu9mnw9ofh7wpo" />
     <title>Zea CS — asisten otomatis untuk berbagai bisnis</title>
     <!-- TAMBAHKAN KODE META DARI FACEBOOK DI SINI -->
     <meta name="facebook-domain-verification" content="f57bkck0bpy5kzj96rjk3jozryrwm6" />
